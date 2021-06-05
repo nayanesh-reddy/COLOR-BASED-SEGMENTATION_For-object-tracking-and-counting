@@ -15,3 +15,5 @@ The algorithm makes two passes over the image.
     1. The first pass to assign temporary labels and record equivalences.
 
     2. The second pass to replace each temporary label by the smallest label of its equivalence class.
+
+<img width="776" alt="CCL" src="https://user-images.githubusercontent.com/84563214/120885186-31f1d300-c605-11eb-966a-9492b0233f79.png">
